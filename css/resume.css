@@ -164,14 +164,14 @@ a:active {
 /* кнопки шер */
 
 /* Стили для оформления кнопок поделиться */
-#share {
+/* #share {
   width: 100%;
   margin: 0 auto;
   background: #fff;
   text-align: center;
-}
+} */
 
-.like {
+/* .like {
   font-size: 16px;
   font-weight: 700;
   padding-top: 10px;
@@ -187,9 +187,9 @@ a:active {
   color: #fff;
   cursor: pointer;
   padding: 5px;
-}
+} */
 
-.facebook {
+/* .facebook {
   background-color: #3b5998;
 }
 .facebook:hover {
@@ -205,9 +205,9 @@ a:active {
   background-color: #c23321;
   color: #fff;
   text-decoration: none;
-}
+} */
 
-.pinterest {
+/* .pinterest {
   background-color: #bd081c;
 }
 .pinterest:hover {
@@ -223,9 +223,9 @@ a:active {
   background-color: #881f12;
   color: #fff;
   text-decoration: none;
-}
+} */
 
-.twitter {
+/* .twitter {
   background-color: #55acee;
 }
 .twitter:hover {
@@ -241,9 +241,9 @@ a:active {
   background-color: #466482;
   color: #fff;
   text-decoration: none;
-}
+} */
 
-.ok {
+/* .ok {
   background-color: #ee8208;
 }
 .ok:hover {
@@ -251,4 +251,27 @@ a:active {
   color: #fff;
   text-decoration: none;
 }
-/* Стили для оформления кнопок поделиться */
+Стили для оформления кнопок поделиться */
+/* ul.share-buttons {
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li {
+  display: inline;
+}
+
+ul.share-buttons .sr-only {
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+ul.share-buttons img {
+  width: 32px;
+} */
