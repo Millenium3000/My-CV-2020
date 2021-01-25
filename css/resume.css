@@ -275,3 +275,76 @@ ul.share-buttons .sr-only {
 ul.share-buttons img {
   width: 32px;
 } */
+
+/*.button[data-sharer="telegram"] {*/
+/*  background-color: #34ADE1;*/
+/*  box-shadow: 0 2px 0 #0E9BD8, 1px 4px 2px rgba(0,0,0,0.2);*/
+/*}*/
+/*.button {*/
+/*  background-color: #aaa;*/
+/*  border: none;*/
+/*  border-radius: 24px;*/
+/*  box-shadow: 0 2px 0 #888, 1px 4px 2px rgba(0,0,0,0.2);*/
+/*  color: white;*/
+/*  display: block;*/
+/*  font-family: sans-serif;*/
+/*  font-size: .85em;*/
+/*  font-weight: 300;*/
+/*  outline: none;*/
+/*  padding: 1em 0;*/
+/*  position: relative;*/
+/*  overflow: hidden;*/
+/*  text-shadow: 1px 1px 1px rgba(0,0,0,0.2);*/
+/*  width: 100%;*/
+/*}*/
+/*.button, html input[type="button"], input[type="reset"], input[type="submit"] {*/
+/*  -webkit-appearance: button;*/
+/*  cursor: pointer;*/
+/*}*/
+
+/*.button, select {*/
+/*  text-transform: none;*/
+/*}*/
+
+/** {*/
+/*  box-sizing: border-box;*/
+/*}*/
+
+/*.button, input, optgroup, select, textarea {*/
+/*  color: inherit;*/
+/*  font: inherit;*/
+/*  margin: 0;*/
+/*}*/
+
+/*.button {*/
+/*  appearance: button;*/
+/*  -webkit-writing-mode: horizontal-tb !important;*/
+/*  text-rendering: auto;*/
+/*  color: -internal-light-dark(black, white);*/
+/*  letter-spacing: normal;*/
+/*  word-spacing: normal;*/
+/*  text-transform: none;*/
+/*  text-indent: 0px;*/
+/*  text-shadow: none;*/
+/*  display: inline-block;*/
+/*  text-align: center;*/
+/*  align-items: flex-start;*/
+/*  cursor: default;*/
+/*  background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));*/
+/*  box-sizing: border-box;*/
+/*  margin: 0em;*/
+/*  font: 400 13.3333px Arial;*/
+/*  padding: 1px 6px;*/
+/*  border-width: 2px;*/
+/*  border-style: outset;*/
+/*  border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));*/
+/*  border-image: initial;*/
+/*}*/
+
+/*.footer {*/
+/*  background-color: #0b2e13;*/
+/*  color: #1b1e21;*/
+/*}*/
+/*.foo {*/
+/*  background-color: #1b1e21;*/
+/*}*/

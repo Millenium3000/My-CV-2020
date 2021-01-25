@@ -93,3 +93,9 @@ jQuery(document).ready(function($) {
 		}
 	});
 });
+
+$(elem).on('click', function() {
+	// add new buttons with share behaviour
+	$('#someDiv').append('<button class="twitter" data-title="Some button" data-url="somesite.com"></button>');
+	window.Sharer.init();
+})
